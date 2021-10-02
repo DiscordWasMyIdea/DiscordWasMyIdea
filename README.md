@@ -1,7 +1,7 @@
 ### Hi there, I'm (not)Elon Musk👋
 
 
-## I'm a Sudent!
+## I'm a Student!
 
 - 🔭 I just made my first program : Hello World!
 - 🌱 I’m currently learning everything 🤣
